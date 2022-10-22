@@ -1,7 +1,7 @@
-### Hi there 👋, my name is Kunle Aduwo
+### Hi there 👋, 
 #### I'm a full stack developer
 
-Skills: REACT / PYTHON / DJANGO / HTML / CSS / JS / DOCKER 
+Skills: REACT / PYTHON / DJANGO / HTML / CSS / JS / DOCKER / 
 
 
 
