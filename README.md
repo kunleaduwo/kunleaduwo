@@ -9,7 +9,7 @@ React / Python / Django / Html / Css / Js / Docker / Kubernetes
 <br>
 
 
-###Fact: For me, it is a mind-set, not a position.
+Fact: For me, it is a mind-set, not a position.
 
 
 
