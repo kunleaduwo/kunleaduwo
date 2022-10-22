@@ -5,8 +5,6 @@ I work on both front end & back-end of applications, using front-end technologie
 Skills and experience: <br>
 React / Python / Django / Html / Css / Js / Docker / Kubernetes
 <br>
-<br>
-<br>
 <hr class="dotted">
 
 Fact: For me, it is a mind-set, not a position.
