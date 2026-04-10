@@ -1,12 +1,19 @@
-Hi there 👋, i'm a software engineer
+<p>Hi there 👋, I'm a Full Stack Engineer.</p>
 
-I work on both front end & back-end of applications, using front-end technologies, development languages, <br>databases, strong design ability, server, APIs and version control systems.
-<hr class="dotted">
-Skills and experience: <br>
-React   |   Python   |   Django   |   JavaScript   |   Docker  |   MySQL   |   PostgreSQL  |   PHP   |
+<p>
+I work across both the front-end and back-end of applications, leveraging modern front-end technologies, 
+programming languages, databases, strong design principles, servers, APIs, and version control systems.
+</p>
+
 <hr class="dotted">
 
-Fact: For me, it is a mind-set, not a position.
+<p><strong>Skills and Experience:</strong><br>
+React | Python | Django | JavaScript | Docker | MySQL | PostgreSQL | PHP
+</p>
+
+<hr class="dotted">
+
+<p><strong>Fact:</strong> For me, it's a mindset, not just a position.</p>
 
 
 
