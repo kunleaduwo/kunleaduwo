@@ -1,7 +1,7 @@
 <p>Hi there 👋, I'm a Full Stack Engineer.</p>
 
 <p>
-I design and develop web applications from frontend to backend, with a focus on building efficient, reliable, and user-friendly systems.
+I design and develop full-stack web applications that are functional, well-structured, and focused on solving real-world problems. I prioritize efficiency, reliability, and user-friendly design across both frontend and backend.
 </p>
 
 <hr class="dotted">
